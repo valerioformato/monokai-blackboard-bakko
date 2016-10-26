@@ -1,4 +1,4 @@
-# Monokai-Blackboard
+# Monokai-Blackboard-Bakko
 
 A monokai-blackboard modified theme for Atom. Forked from [dexteryy/monokai-blackboard](https://atom.io/themes/monokai-blackboard)
 
