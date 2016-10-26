@@ -1,0 +1,29 @@
+{
+  "bugs": {
+    "url": "https://github.com/dexteryy/monokai-blackboard-bakko/issues"
+  },
+  "dependencies": {},
+  "description": "A monokai-blackboard-bakko hybrid theme for Atom. Forked from kevinsawicki/monokai",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.209.0"
+  },
+  "homepage": "https://github.com/dexteryy/monokai-blackboard-bakko#readme",
+  "keywords": [
+    "syntax",
+    "dark",
+    "monokai",
+    "blackboard"
+  ],
+  "license": "MIT",
+  "name": "monokai-blackboard-bakko",
+  "optionalDependencies": {},
+  "readme": "# monokai-blackboard-bakko\n\nA monokai-blackboard-bakko hybrid theme for Atom. Forked from [dexteryy/monokai-blackboard](https://atom.io/themes/monokai-blackboard)\n\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexteryy/monokai-blackboard-bakko.git"
+  },
+  "theme": "syntax",
+  "version": "0.3.0"
+}
