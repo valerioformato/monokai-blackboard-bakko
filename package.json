@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "url": "https://github.com/dexteryy/monokai-blackboard-bakko/issues"
+    "url": "https://github.com/valerioformato/monokai-blackboard-bakko/issues"
   },
   "dependencies": {},
   "description": "A monokai-blackboard-bakko hybrid theme for Atom. Forked from kevinsawicki/monokai",
@@ -8,7 +8,7 @@
   "engines": {
     "atom": ">=0.209.0"
   },
-  "homepage": "https://github.com/dexteryy/monokai-blackboard-bakko#readme",
+  "homepage": "https://github.com/valerioformato/monokai-blackboard-bakko#readme",
   "keywords": [
     "syntax",
     "dark",
@@ -22,8 +22,8 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dexteryy/monokai-blackboard-bakko.git"
+    "url": "git+https://github.com/valerioformato/monokai-blackboard-bakko.git"
   },
   "theme": "syntax",
-  "version": "0.3.0"
+  "version": "0.1.0"
 }
